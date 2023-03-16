@@ -1,0 +1,4 @@
+User-agent: * #허용할 검색엔진 명을 넣으면 된다. *는 모든 검색엔진을 허용한다.
+Allow: /
+
+Sitemap: https://tanagy-world.github.io/sitemap.xml 
